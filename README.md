@@ -121,8 +121,3 @@ frontend/
   src/styles/theme.css        themes and layout
 run_app.sh                    starts backend and frontend
 ```
-
-## Documents
-
-- [Project report (PDF)](Project_Report_Agentic_Debate_Arena_Updated.pdf)
-- [Project presentation (PPTX)](Agentic_Debate_Arena.pptx)
